@@ -6,7 +6,7 @@
     Professor Name: Wenjia Li
     Date: 9/26/24
 */
-
+//gfuoweofwufgwugfouwegf
 
 public class Course{
     public String courseName;
