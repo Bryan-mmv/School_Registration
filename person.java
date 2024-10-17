@@ -6,6 +6,8 @@
     Professor Name: Wenjia Li
     Date: 9/17/24
 */
+
+//ibiub
 public class person {
     private String Name;
     private int Age;
